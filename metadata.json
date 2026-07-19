@@ -1,0 +1,6 @@
+{
+  "name": "심부름할 사람을 정해주는 AI 에이전트 만들기",
+  "description": "12~14세 학생 대상 AI 윤리 캠프 교육용 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
